@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Gerich-resturant/static/css/main.96ce4555.css",
+    "main.js": "/Gerich-resturant/static/js/main.9d1ca3aa.js",
+    "static/media/meal.mp4": "/Gerich-resturant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Gerich-resturant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/Gerich-resturant/static/media/findus.8751e5a6019a324a390e.png",
+    "static/media/welcome.png": "/Gerich-resturant/static/media/welcome.f1c8f886513cf3c47dba.png",
+    "static/media/laurels.png": "/Gerich-resturant/static/media/laurels.bf7d94576cf38ad60b7e.png",
+    "static/media/chef.png": "/Gerich-resturant/static/media/chef.b3b1de0fc1c439634b65.png",
+    "static/media/menu.png": "/Gerich-resturant/static/media/menu.eb32e9d1ad7595dc06af.png",
+    "static/media/gallery04.png": "/Gerich-resturant/static/media/gallery04.72270cd1044dd0487749.png",
+    "static/media/knife.png": "/Gerich-resturant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Gerich-resturant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery02.png": "/Gerich-resturant/static/media/gallery02.d4b96ee8eb8ad0811b4a.png",
+    "static/media/gallery01.png": "/Gerich-resturant/static/media/gallery01.6a718f9996e0f8e33abd.png",
+    "static/media/gallery03.png": "/Gerich-resturant/static/media/gallery03.30fb372021681014bb62.png",
+    "static/media/G.png": "/Gerich-resturant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/Gerich-resturant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Gerich-resturant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Gerich-resturant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Gerich-resturant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Gerich-resturant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Gerich-resturant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Gerich-resturant/index.html",
+    "static/media/spoon.svg": "/Gerich-resturant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.96ce4555.css.map": "/Gerich-resturant/static/css/main.96ce4555.css.map",
+    "main.9d1ca3aa.js.map": "/Gerich-resturant/static/js/main.9d1ca3aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ce4555.css",
+    "static/js/main.9d1ca3aa.js"
+  ]
+}
